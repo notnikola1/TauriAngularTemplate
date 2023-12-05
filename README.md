@@ -34,10 +34,10 @@ Must have Rust up and running
 > yarn install
  # Run dev
 
-> yarn dev
+> yarn dev  OR yarn tauri dev
 
  # Building
-> yarn build
+> yarn build OR yarn tauri build
 
 
 # Integrated

@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "install": "cd app && yarn && ng build",
+    "dev": "yarn tauri dev",
+    "build": "yarn tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.7"
+  }
+}

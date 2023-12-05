@@ -1,0 +1,8 @@
+/src-tauri/target/
+/app/dist
+/app/.vscode
+/app/.idea
+/app/node_modules
+.idea
+.vscode
+node_modules

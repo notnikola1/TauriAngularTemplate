@@ -7,21 +7,27 @@ I didnt find any templates for Tauri + Angular so here it is. Latest Bulma and P
 
 There is also a possibility that I am blind and didnt see something staring me in the face.
 
-# Happy Spooder
+Reloading enabled by default
+If you edit the Angular part - localhost:4200 is reloaded normally,
+If you edit the Tauri/Rust part - app gets recompiled and relaunched.
+
+# Spooder for good luck
 
 ⧹╲⎝⧹༼◕ ͜oﱞﱞﱞﱞﱞﱞ.◕ ༽⧸⎠╱⟋╱
 
 
 # Requirements
 
- ## NodeJS side
- >yarn
-> 
- >@tauri-apps/cli
+Must have Rust up and running
 
  ## Rust side
  Follow this to get Rust running
  https://tauri.app/v1/guides/getting-started/prerequisites
+
+ ## NodeJS side
+ >yarn
+> 
+ >@tauri-apps/cli
  
  # Instalattion
 

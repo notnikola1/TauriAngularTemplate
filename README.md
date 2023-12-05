@@ -61,13 +61,13 @@ A: Ok, dont use it.
 
 Q: Will you make a React template? 
 
-A: No.
+A: Close enough -> https://tauri.app/v1/guides/getting-started/setup/next-js
 
 -----
 
 Q: How about NextJS?
 
-A: No.
+A: Already there -> https://tauri.app/v1/guides/getting-started/setup/next-js
 
 ------
 
